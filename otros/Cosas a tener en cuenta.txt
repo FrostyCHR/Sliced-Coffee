@@ -1,0 +1,52 @@
+Body más fino. Sobre todo main
+
+
+HERO POR FAVOR.
+
+
+Combinar dos fuentes:
+https://www.fontpair.co/pairings/libre-baskerville-source-sans-pro
+https://www.fontpair.co/pairings/source-sans-pro-source-serif-pro
+https://www.fontpair.co/pairings/open-sans-average-sans
+
+
+¿¿¿Cambiar color del logo???
+
+
+Las cartas DEBEN tener alineadas entre ellas cada una de las partes. (imágen, título, párrafo...)
+Usar MIN-HEIGHT para las tarjetas. (al texto de dentro. bueno a todo xd)
+Y también que las imágenes tengan el mismo tamaño. (Object-fit es tu amigo)
+
+
+MAPA de la localización.
+
+
+Texto bastante grande.
+
+
+Usar urls del estilo: https://chriscoffecontacto.html (o sin el punto html)
+
+
+Usar minúsculas a ser posible. (en la parte técnica)
+
+
+Líneas bajo o sobre los enlaces del nav.
+
+
+Usar mismos colores en toda la web.
+
+
+NO combinar diversos tamaños de margin y de padding.
+
+
+Particles??
+
+
+Ir alternando entre dos colores. Diversos tonos de gris????
+
+
+
+
+
+
+Redirección??? (301)
